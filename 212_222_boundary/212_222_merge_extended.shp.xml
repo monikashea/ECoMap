@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<idinfo>
+		<descript>
+			<abstract>This data set represents ecological sections within the conterminous
+United States. This data set contains regional geographic delineations
+for analysis of ecological relationships across ecological units.  The
+U.S. Department of Agriculture (USDA), Forest Service, in participation
+with numerous individuals of Federal and State agencies and
+nongovernmental organizations (NGOs), has been developing and refining
+ecological maps of the United States through the process of peer review
+and successive approximations since 1976 (Bailey 1976). Ecological
+mapping and descriptions follow the USDA Forest Service's National
+Hierarchical Framework of Ecological Units (ECOMAP 1993, Cleland et al.
+1997). This 2007 map is the first approximation of subregion ecological
+units developed for the conterminous United States. Alaska, Hawaii, and
+Puerto Rico were not included because of the additional time that would
+be needed for coordination and peer review for those areas. Ecological
+mapping continues for those areas, and they will be included in the near
+future.  This subregional (sections and subsections) presentation
+represents an effort to develop units that integrate, in an ecologically
+meaningful way, information from individual disciplines, single purpose
+maps, and existing regionalizations. This interdisciplinary approach
+highlighted the need for continued efforts to overcome geopolitical and
+administrative bias in primary data sources.  Development of ecological
+units and descriptive data is an iterative process that will progress as
+additional information becomes available and from peer review and
+comments by users of this information (ECOMAP 2007).  Many national,
+regional, and State sources of information were used in identifying
+ecological subregions. Some significant sources included Quaternary
+Geologic Atlas of the United States, U.S. Geological Survey; State Soil
+Geographic Soil Database, Natural Resources Conservation Service;
+Ecoregions and Subregions, Environmental Protection Agency; Hammond's
+Classes of Land Surface Form, U.S. Geological Survey; State Natural
+Heritage maps and classifications; physiographic maps; land cover types;
+and State Natural Habitat regions.  The data are represented at a scale
+of 1:3,500,000.</abstract>
+			<purpose>The purpose of this data set is to represent ecological sections within the conterminous United States.</purpose>
+			<supplinf/>
+		</descript>
+		<useconst>&lt;a rel="license" style="float:right;" href="http://creativecommons.org/licenses/by/3.0/" target="_blank"&gt;&lt;img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png" /&gt;&lt;/a&gt;This work is licensed under a &lt;a rel="license" href="http://creativecommons.org/licenses/by/3.0/" target="_blank"&gt;Creative Commons Attribution 3.0 License&lt;/a&gt;.</useconst>
+		<datacred/>
+		<citation>
+			<citeinfo>
+				<title>US Forest Service Ecological Sections of the U.S.</title>
+				<pubdate/>
+				<othercit>&lt;b&gt;Title:&lt;/b&gt;
+ US Fisheries Service Ecological Sections of the U.S.&lt;br /&gt;
+&lt;b&gt;Credits:&lt;/b&gt;
+ USDA - Forest Service ECOMAP Team&lt;br /&gt;
+&lt;b&gt;Publication Date:&lt;/b&gt;
+ 2007&lt;br /&gt;
+&lt;b&gt;Publisher:&lt;/b&gt;
+ USDA - Forest Service&lt;br /&gt;
+&lt;b&gt;Other Citation Info:&lt;/b&gt;
+ Cleland, D.T.; Freeouf, J.A.; Keys, J.E., Jr.; Nowacki, G.J.;
+Carpenter, C; McNab, W.H. 2007. Ecological Subregions: Sections and
+Subsections of the Conterminous United States [1:3,500,000] [CD-ROM].
+Sloan, A.M., cartog. Gen. Tech. Report WO-76. Washington, DC: U.S.
+Department of Agriculture, Forest Service.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Larger Works:&lt;/b&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Title:&lt;/b&gt;
+ Ecological Subregions: Sections and Subsections for the Conterminous
+United States&lt;br /&gt;
+&lt;b&gt;Credits:&lt;/b&gt;
+ USDA - Forest Service ECOMAP Team&lt;br /&gt;
+&lt;b&gt;Publication Date:&lt;/b&gt;
+ 2007&lt;br /&gt;
+&lt;b&gt;Publisher:&lt;/b&gt;
+ USDA - Forest Service&lt;br /&gt;</othercit>
+				<origin>USDA - Forest Service ECOMAP Team</origin>
+				<onlink>http://app.databasin.org/app/pages/datasetPage.jsp?id=9ebae13e920c47f3ab19a4586ad2152f</onlink>
+				<pubinfo>
+					<publish/>
+					<pubplace/>
+				</pubinfo>
+			</citeinfo>
+		</citation>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>David T. Cleland</cntper>
+					<cntorg>USDA Forest Service</cntorg>
+				</cntperp>
+			</cntinfo>
+		</ptcontac>
+		<status>
+			<progress/>
+			<update/>
+		</status>
+		<timeperd>
+			<timeinfo>
+				<sngdate>2007</sngdate>
+				<current/>
+			</timeinfo>
+		</timeperd>
+		<keywords/>
+		<spdom>
+			<bounding>
+				<northbc>49.38639165445559</northbc>
+				<eastbc>-66.79803820019134</eastbc>
+				<southbc>24.53068880431677</southbc>
+				<westbc>-124.76261517269772</westbc>
+			</bounding>
+		</spdom>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>Contact USDA - Forest Service</attraccr>
+		</attracc>
+		<complete/>
+		<lineage/>
+	</dataqual>
+	<eainfo>
+		<detailed Name="212_222_merge">
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attalias>FID</attalias>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv>
+				<attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdefs Sync="TRUE">Esri</attrdefs></attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attalias>Shape</attalias>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv>
+				<attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdefs Sync="TRUE">Esri</attrdefs></attr>
+			<enttyp><enttypl Sync="TRUE">212_222_merge</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp><attr><attrlabl Sync="TRUE">Id</attrlabl><attalias Sync="TRUE">Id</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">6</attwidth><atprecis Sync="TRUE">6</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Ecoregion</attrlabl><attalias Sync="TRUE">Ecoregion</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">4</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>US Forest Service Ecological Sections of the U.S.</resdesc>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Data Basin (www.databasin.org)</cntorg>
+				</cntorgp>
+				<cntemail>databasin@consbio.org</cntemail>
+				<cntorgp/>
+			</cntinfo>
+			<cntinfo/>
+			<cntinfo/>
+		</distrib>
+		<stdorder>
+			<digform>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://app.databasin.org/app/pages/datasetPage.jsp?id=9ebae13e920c47f3ab19a4586ad2152f</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<Esri><CreaDate>20170615</CreaDate><CreaTime>12162600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>FALSE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\gymnosperm\Users\Shea\Research\GIS\Base_Layers\Adjusted_Base_Layers\EcoSections\212_222_merge.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><itemName Sync="TRUE">212_222_merge</itemName><imsContentType Sync="TRUE">002</imsContentType><itemSize Sync="TRUE">0.000</itemSize></itemProps><copyHistory><copy source="C:\arcgisserver\services\im2\9ebae13e920c47f3ab19a4586ad2152f\data\sections2007\sections2007" dest="\\IP-0A5317A4\C\arcgisserver\services\im2\9ebae13e920c47f3ab19a4586ad2152f\9ebae13e920c47f3ab19a4586ad2152f\commondata\data0\sections2007" date="20110513" time="06040300"></copy></copyHistory><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn><csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits><projcsn Sync="TRUE">WGS_1984_Web_Mercator_Auxiliary_Sphere</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.1'&gt;&lt;WKT&gt;PROJCS[&amp;quot;WGS_1984_Web_Mercator_Auxiliary_Sphere&amp;quot;,GEOGCS[&amp;quot;GCS_WGS_1984&amp;quot;,DATUM[&amp;quot;D_WGS_1984&amp;quot;,SPHEROID[&amp;quot;WGS_1984&amp;quot;,6378137.0,298.257223563]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Mercator_Auxiliary_Sphere&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,0.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,0.0],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,0.0],PARAMETER[&amp;quot;Auxiliary_Sphere_Type&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,3857]]&lt;/WKT&gt;&lt;XOrigin&gt;-20037700&lt;/XOrigin&gt;&lt;YOrigin&gt;-30241100&lt;/YOrigin&gt;&lt;XYScale&gt;148923141.92838538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102100&lt;/WKID&gt;&lt;LatestWKID&gt;3857&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml></coordRef></DataProperties><SyncDate>20160824</SyncDate><SyncTime>10374900</SyncTime><ModDate>20160824</ModDate><ModTime>10374900</ModTime></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.2.3552</envirDesc><dataLang><languageCode value="eng" Sync="TRUE"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></dataLang><idCitation><resTitle Sync="TRUE">212_222_merge</resTitle><presForm><PresFormCd value="005" Sync="TRUE"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd value="001" Sync="TRUE"></SpatRepTypCd></spatRpType></dataIdInfo><mdLang><languageCode value="eng" Sync="TRUE"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></mdLang><distInfo><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.000</transSize></distTranOps></distInfo><mdHrLv><ScopeCd value="005" Sync="TRUE"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><refSysInfo><RefSystem><refSysID><identCode code="3857" Sync="TRUE"></identCode><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">8.2.6</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="212_222_merge"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><spdoinfo><ptvctinf><esriterm Name="212_222_merge"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo><mdDateSt Sync="TRUE">20160824</mdDateSt><mdChar><CharSetCd value="004" Sync="TRUE"></CharSetCd></mdChar></metadata>
