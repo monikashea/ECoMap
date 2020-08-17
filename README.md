@@ -1,5 +1,6 @@
 # ECoMap
 Code and data demonstrating ECoMap approach for mapping the Wisconsin Tension Zone. The data and code accompany the article: Shea, M.E., M.K. Clayton, P.A. Townsend, S. Berg, H. Elza, and D.J. Mladenoff. 2020. Identifying ecotone location using the co-occurrence property. Journal of Vegetation Science. https://doi.org/10.1111/jvs.12929
+
 Files include:  
 1. TZ_ECoMap.R: The main R script implementing the ECoMap approach for mapping the Wisconsin Tension Zone.
 2. TZ_ECoMap_movezones.R: The R script exploring what happens when alternate initial boundary locations are used. Includes code for making Fig. 4. 
